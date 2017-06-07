@@ -1,0 +1,9 @@
+baseURL = "https://cmluciano.github.io/"
+languageCode = "en-us"
+title = "A real blog's blog"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitterName = "cmluciano_"
+  githubName = "cmluciano"
